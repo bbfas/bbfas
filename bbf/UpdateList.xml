@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <description>Application autoUpdate</description>
+  <Updater>
+    <Url>http://bbfas.com/bbf</Url>
+	<LastUpdateTime>2022-6-19</LastUpdateTime>
+  </Updater>
+  <Application>
+     <EntryPoint>bbfas.exe</EntryPoint>
+     <EntryPoint>3.exe</EntryPoint>
+     <EntryPoint>BincoHaXUI.exe</EntryPoint>
+     <EntryPoint>GTAHaXUI.exe</EntryPoint>
+     <EntryPoint>Kiddion.exe</EntryPoint>
+     <EntryPoint>Kiddion_Chs.exe</EntryPoint>
+     <EntryPoint>LSCHax.exe</EntryPoint>
+  </Application>
+  <Files>
+	   <File Ver="2.0" Name="bbfas.exe" />
+	   <File Ver="1.0" Name="GTAHaXUI.exe" />
+	   <File Ver="1.0" Name="3.exe" />
+	   <File Ver="1.0" Name="Kiddion.exe" />
+	   <File Ver="1.0" Name="Kiddion_Chs.exe" />
+	   <File Ver="1.0" Name="LSCHax.exe" />
+	   <File Ver="1.0" Name="BincoHaXUI.exe" />
+	   
+  </Files>
+</AutoUpdater>
